@@ -49,9 +49,9 @@ Bot untuk Voice Chat Di telegram
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pockybear28/Sultan-Music)
 
-### Generate String Session
+### ayo menjadi bagian dari kita
 
-Gabung Ke [Grup Support](https://t.me/telefriendsgc) Man-UserBot & (https://t.me/kitaadalahavenger) Untuk bersenang-senang 
+Gabung Ke [Grup Support](https://t.me/telefriendsgc) & (https://t.me/kitaadalahavenger) Untuk bersenang-senang 
 
 ### Credits
 - [pockybear28](https://github.com/pockybear28)
